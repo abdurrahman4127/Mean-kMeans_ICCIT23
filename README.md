@@ -1,4 +1,4 @@
-# Mean-KMeans [ICCIT23]
+# Mean-kMeans [ICCIT23]
 
 ## Overview
 

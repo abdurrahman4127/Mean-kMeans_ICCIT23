@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains an implementation of the **Mean-KMeans** clustering algorithm, an enhanced version of the traditional KMeans algorithm. Our Mean-KMeans algorithm improves clustering performance by optimizing the iteration process and utilizing in-place mean calculations for cluster assignments, thus resulting in faster convergence.
+This repository contains an implementation of the **Mean-kMeans** clustering algorithm, an enhanced version of the traditional kMeans algorithm. Our Mean-kMeans algorithm improves clustering performance by optimizing the iteration process and utilizing in-place mean calculations for cluster assignments, thus resulting in faster convergence.
 
-## Mean-KMeans Algorithm Details
+## Mean-kMeans Algorithm Details
 
-Mean-KMeans introduces key enhancements:
+Mean-kMeans introduces key enhancements:
 
 - **Dynamic Mean Calculation**: Instead of fixed centroids, the algorithm calculates the mean of points currently assigned to each cluster during each iteration.
 - **Optimized Convergence**: By refining the centroid selection and leveraging in-place calculations, the algorithm significantly reduces the number of iterations needed for convergence.
@@ -42,7 +42,7 @@ pip install numpy matplotlib scikit-learn pandas
      python normal_kmeans.py
      ```
 
-   - To execute the Mean-KMeans clustering algorithm:
+   - To execute the Mean-kMeans clustering algorithm:
 
      ```bash
      python mean_kmeans.py

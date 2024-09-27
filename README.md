@@ -30,7 +30,7 @@ pip install numpy matplotlib scikit-learn pandas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abdurrahman4127/Mean-k-Means-ICCIT23.git
+   git clone https://github.com/abdurrahman4127/Mean-kMeans_ICCIT23.git
    ```
    Then navigate to the repository directory
 
@@ -54,7 +54,7 @@ pip install numpy matplotlib scikit-learn pandas
      python elbow_method.py
      ```
 
-Notebook is provided at [📙MeansKMeans](https://github.com/abdurrahman4127/Mean-k-Means-ICCIT23/blob/main/MeansKMeans.ipynb)
+Notebook is provided at [📙Mean-kMeans](https://github.com/abdurrahman4127/Mean-k-Means-ICCIT23/blob/main/MeansKMeans.ipynb)
 
 
 ## Citation

@@ -54,7 +54,7 @@ pip install numpy matplotlib scikit-learn pandas
      python elbow_method.py
      ```
 
-Notebook is provided at [📙Mean-kMeans](https://github.com/abdurrahman4127/Mean-k-Means-ICCIT23/blob/main/MeansKMeans.ipynb)
+Notebook is provided at [📙Mean-kMeans](https://github.com/abdurrahman4127/Mean-kMeans_ICCIT23/blob/main/Mean-kMeans.ipynb)
 
 
 ## Citation

@@ -1,5 +1,4 @@
 # Mean-KMeans [ICCIT23]
-# README for 
 
 ## Overview
 
@@ -55,13 +54,12 @@ pip install numpy matplotlib scikit-learn pandas
      python elbow_method.py
      ```
 
-3. Notebook:
-   Notebook is provided at [Code]()
+Notebook is provided at [📙MeansKMeans](https://github.com/abdurrahman4127/Mean-k-Means-ICCIT23/blob/main/MeansKMeans.ipynb)
 
 
 ## Citation
 
-This study was published in 2023 at the 26th **International Conference on Computer and Information Technology (ICCIT)**, held from December 13 to 15 in Cox’s Bazar, Bangladesh. If you find our work useful, consider citing our work:
+This study was published in 2023 at the 26th **International Conference on Computer and Information Technology (ICCIT)**, held from December 13 to 15 in Cox’s Bazar, Bangladesh. If you find our work useful, consider citing it as:
 
 ``` bash
 @INPROCEEDINGS{10441078,

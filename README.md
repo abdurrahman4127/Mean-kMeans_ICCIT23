@@ -59,7 +59,7 @@ Notebook is provided at [📙Mean-kMeans](https://github.com/abdurrahman4127/Mea
 
 ## Citation
 
-This study was accepted in 2023 at the 26th **International Conference on Computer and Information Technology (ICCIT)**, held from December 13 to 15 in Cox’s Bazar, Bangladesh. If you find our work useful, consider citing it as:
+This study was accepted in 2023 at the 26th **International Conference on Computer and Information Technology (ICCIT)**. If you find our work useful, consider citing it as:
 
 ``` bash
 @INPROCEEDINGS{10441078,

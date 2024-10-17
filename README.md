@@ -1,4 +1,4 @@
-# Mean-kMeans [ICCIT23]
+# Data Segmentation with Improved K-Means Clustering Algorithm
 
 ## Overview
 
